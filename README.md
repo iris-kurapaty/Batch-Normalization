@@ -1,7 +1,7 @@
 # Batch-Normalization
 This repo demonstrates the results of using 3 different Types of Normalization on the CIFAR dataset for a specific model architecture. The model architecture should be defined as ![image](https://github.com/iris-kurapaty/Batch-Normalization/assets/52544352/dfe841ec-3d5a-4846-8217-07a384c18dbe).
 
-We can see the accuracy of the model built using < 50k parameters and running for a maximum of 20 epochs. The Jupyter Notebook contians all the 3 experiments with its logs. It uses modular code from model.py and utils.py from 'src' folder to run different segments. The training and testing loss and accuracies for 20 epochs are available on the README file. 3 sets of misclassified images have been shared on the README file as well.
+We can see the accuracy of the model built using < 50k parameters and running for a maximum of 20 epochs. The Jupyter Notebook contians all the 3 experiments with its logs. It uses modular code from model.py and utils.py from *src* folder to run different segments. The training and testing loss and accuracies for 20 epochs are available on the README file. 3 sets of misclassified images have been shared on the README file as well.
 
 ## Experiment Findings 
 The best testing accuracy for the 3 methods are as follow:
