@@ -15,3 +15,14 @@ This repo demonstrates the results of  using 3 different Types of Normalization 
 
 
 ## Misclassified Images
+
+### Example 1
+![image](https://github.com/iris-kurapaty/Batch-Normalization/assets/52544352/d4522945-5809-4fe8-a557-38c733194f06)
+
+### Example 2
+![image](https://github.com/iris-kurapaty/Batch-Normalization/assets/52544352/dc4e2f5a-f8d7-4a6a-9c34-c156f7b12ecd)
+
+### Example 3
+![image](https://github.com/iris-kurapaty/Batch-Normalization/assets/52544352/844128f8-2564-4c61-9a45-8f467a31c64e)
+
+
