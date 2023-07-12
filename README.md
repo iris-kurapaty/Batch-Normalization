@@ -11,4 +11,7 @@ This repo demonstrates the results of  using 3 different Types of Normalization 
 
 ### Batch Normalization
 
+![image](https://github.com/iris-kurapaty/Batch-Normalization/assets/52544352/3ccdbb7d-2c20-4677-9c4a-4ead7c3d5870)
+
+
 ## Misclassified Images
